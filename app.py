@@ -3,5 +3,6 @@
 def addition(a, b, c):
     return a + b + c
 
-def multiplication(a, b):
-    return a * b
+## multiplication code
+def multiplication(a, b, c):
+    return a * b * c
